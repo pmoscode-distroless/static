@@ -1,0 +1,5 @@
+include: ../apko-base-config.yaml
+
+contents:
+  packages:
+    - tzdata

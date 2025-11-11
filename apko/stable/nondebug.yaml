@@ -1,0 +1,6 @@
+include: apko-config.yaml
+
+contents:
+  packages:
+    - wolfi-baselayout
+    - curl
